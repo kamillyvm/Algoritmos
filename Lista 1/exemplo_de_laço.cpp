@@ -1,6 +1,6 @@
 /* Elabore um algoritmo que leia todas as 
 multas de n motoristas, calcule e escreva 
-o total do débito de cada um.
+o total do dÃ©bito de cada um.
 */
 
 #include<iostream>
@@ -26,7 +26,7 @@ int main(){
 			cout << "tem mais alguma multa? (s-sim/n-nao) ";
 			cin >> resp;
 		}
-		cout << "valor da multa: " << total << endl;
+		cout << "valor total das multas: " << total << endl;
 	}
 	
 	return 0;
