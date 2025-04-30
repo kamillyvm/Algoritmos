@@ -1,11 +1,14 @@
 /*
 
 Crie um algoritmo que ajude o DETRAN a saber o total de recursos que foram arrecadados com a 
-aplicação de multas de trânsito. O algoritmo deve ler as seguintes informações para cada um dos N 
-motoristas:  - O número da carteira de motorista (inteiro);  - Número de multas;  - O valor de cada uma das multas.  
-Deve ser impresso o valor da dívida de cada motorista e ao final da leitura o total de recursos arrecadados 
-(somatório de todas as multas). O algoritmo deverá imprimir também o número da carteira do motorista 
-que obteve o maior número de multas.
+aplicaÃ§Ã£o de multas de trÃ¢nsito. O algoritmo deve ler as seguintes informaÃ§Ãµes para cada um dos N 
+motoristas:  
+- O nÃºmero da carteira de motorista (inteiro);  
+- NÃºmero de multas;  
+- O valor de cada uma das multas.  
+Deve ser impresso o valor da dÃ­vida de cada motorista e ao final da leitura o total de recursos arrecadados 
+(somatÃ³rio de todas as multas). O algoritmo deverÃ¡ imprimir tambÃ©m o nÃºmero da carteira do motorista 
+que obteve o maior nÃºmero de multas.
  
 */
 
