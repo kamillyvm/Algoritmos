@@ -18,7 +18,7 @@ int main(){
     	cout << "digite o primeiro elemento para multiplicar: ";
         cin >> v1[i];
         cout << "digite o segundo elemento para multiplicar: ";
-		cin >> v2[i];
+	cin >> v2[i];
         
         v3[i] = v1[i]*v2[i];
         
